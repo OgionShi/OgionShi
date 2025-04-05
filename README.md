@@ -1,16 +1,18 @@
-## Hi there 👋
+## Ivan Zarubin
 
-<!--
-**OgionShi/OgionShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer
 
-Here are some ideas to get you started:
+Russia, Chekhov, 142300
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- 2015.09 - 2021.07 Bauman Moscow State Technical University, IU1 Automatic control systems.
+
+## Skills
+
+- Natural Language: Russian (Native); English (intermediate);
+- Programming Language: MATLAB, bash;
+- Typesetting Language: LaTeX, Markdown.
+
+## How to reach me
+- vanya.zarubin2023@yandex.ru
